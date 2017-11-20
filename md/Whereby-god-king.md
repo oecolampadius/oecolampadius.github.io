@@ -1,0 +1,3 @@
+#Whereby President William McKinley became omnipotent god-king
+This is a sample post for my developer. He is writing me a script that will use pandoc to automatically convert my markdown files to HTML, with links to my custom CSS. In addition, this script will automatically update my `index.html` with a link to the new HTML file, ordered from most to least recent. This will all be hosted on my [github repository](oecolampadius.github.io)
+The header of this sample document is from a childhood story my father used to tell me, wherein a terrible knight, bearing the sigil of the bear, killed our benevolent god-king emperor and plunged the world into five hundred years of fearsome darkness.
